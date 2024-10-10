@@ -28,7 +28,6 @@
 ---
 
 # 4.索引概念及索引底层数据结构
-
 ![image](https://github.com/user-attachments/assets/843c654a-0426-4ecf-865c-731148e94124)
 
 ![image](https://github.com/user-attachments/assets/6e26ff0e-7160-4f8b-aa4d-4663f2925c97)
@@ -46,7 +45,6 @@
 ---
 
 # 5.聚簇索引和非聚簇索引、回表查询
-
 ![image](https://github.com/user-attachments/assets/1ac163c8-9a2c-47dd-b759-1e171f8f8566)
 
 ![image](https://github.com/user-attachments/assets/767ecb1b-7c7b-4119-aa94-427d7355ac79)
@@ -60,7 +58,6 @@
 ---
 
 # 6.覆盖索引、超大分页优化
-
 ![image](https://github.com/user-attachments/assets/a03e28a8-093a-465e-a18f-5b7aa3220b41)
 
 ![image](https://github.com/user-attachments/assets/f0d92a16-ef78-497e-9fbb-e6a87c26745a)
@@ -72,3 +69,12 @@
 ![image](https://github.com/user-attachments/assets/b2d066a9-7a1f-420e-b1ec-89be0163d00c)
 
 ![image](https://github.com/user-attachments/assets/a18f9a99-b6ef-4bdf-a654-71f4a5d6fe4f)
+
+---
+
+# 7.索引创建的原则
+![image](https://github.com/user-attachments/assets/e23a37ca-035d-4548-b68c-733c430a4d4d)
+
+![image](https://github.com/user-attachments/assets/caf1e840-47db-4217-a3fb-ee990793eafa)
+
+![image](https://github.com/user-attachments/assets/baec9092-ee7a-4336-bec2-213b2463ece4)
