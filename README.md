@@ -42,3 +42,17 @@
 ![image](https://github.com/user-attachments/assets/40ffa6ee-7b45-44bd-8815-77d2bd9c2ab1)
 
 ![image](https://github.com/user-attachments/assets/376eaa5c-02e4-4ad7-9970-1130f592ef6f)
+
+---
+
+# 5.聚簇索引和非聚簇索引、回表查询
+
+![image](https://github.com/user-attachments/assets/1ac163c8-9a2c-47dd-b759-1e171f8f8566)
+
+![image](https://github.com/user-attachments/assets/767ecb1b-7c7b-4119-aa94-427d7355ac79)
+
+![image](https://github.com/user-attachments/assets/0f2c780e-cf54-45b9-9a33-29ee292d3445)
+
+![image](https://github.com/user-attachments/assets/0a85aa98-c0a2-42d2-b343-55b9375c4c92)
+
+![image](https://github.com/user-attachments/assets/1fd501df-cc6a-467c-b728-693c80f3cddd)
