@@ -78,3 +78,22 @@
 ![image](https://github.com/user-attachments/assets/caf1e840-47db-4217-a3fb-ee990793eafa)
 
 ![image](https://github.com/user-attachments/assets/baec9092-ee7a-4336-bec2-213b2463ece4)
+
+---
+
+# 8.什么情况下索引会失效
+![image](https://github.com/user-attachments/assets/e058f9af-d73f-4939-9d9c-7745ce7bc447)
+
+![image](https://github.com/user-attachments/assets/7199b773-68f8-4236-b9b3-a4dc2b440ca7)
+
+![image](https://github.com/user-attachments/assets/3b7455ac-95a8-4453-8a07-618fa1b716b0)
+
+![image](https://github.com/user-attachments/assets/fa46035a-0965-45c8-89a3-84a8729294fa)
+
+![image](https://github.com/user-attachments/assets/95bdcbf5-f545-4665-abe5-a9b6024d07ae)
+
+![image](https://github.com/user-attachments/assets/99d3c60a-23c9-4933-aa3a-dd685fa4f3dc)
+
+![image](https://github.com/user-attachments/assets/ddd86d99-fd5a-441a-acdb-7982680c06c7)
+
+![image](https://github.com/user-attachments/assets/4a9753e1-4dd3-4762-bf89-6a247bb7e028)
