@@ -56,3 +56,19 @@
 ![image](https://github.com/user-attachments/assets/0a85aa98-c0a2-42d2-b343-55b9375c4c92)
 
 ![image](https://github.com/user-attachments/assets/1fd501df-cc6a-467c-b728-693c80f3cddd)
+
+---
+
+# 6.覆盖索引、超大分页优化
+
+![image](https://github.com/user-attachments/assets/a03e28a8-093a-465e-a18f-5b7aa3220b41)
+
+![image](https://github.com/user-attachments/assets/f0d92a16-ef78-497e-9fbb-e6a87c26745a)
+
+![image](https://github.com/user-attachments/assets/250b6546-0d6e-4156-91cd-533d2face496)
+
+![image](https://github.com/user-attachments/assets/057e9e7a-76f0-4385-9219-257204a11ae6)
+
+![image](https://github.com/user-attachments/assets/b2d066a9-7a1f-420e-b1ec-89be0163d00c)
+
+![image](https://github.com/user-attachments/assets/a18f9a99-b6ef-4bdf-a654-71f4a5d6fe4f)
