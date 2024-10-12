@@ -97,3 +97,40 @@
 ![image](https://github.com/user-attachments/assets/ddd86d99-fd5a-441a-acdb-7982680c06c7)
 
 ![image](https://github.com/user-attachments/assets/4a9753e1-4dd3-4762-bf89-6a247bb7e028)
+
+---
+
+# 9.谈一谈你对sql优化的经验
+![image](https://github.com/user-attachments/assets/4914fed0-7367-4d4c-be12-b278eefdbea4)
+
+![image](https://github.com/user-attachments/assets/164d1d25-d07c-4964-93df-6cff9617cb4d)
+
+![image](https://github.com/user-attachments/assets/4e97f48c-e127-499b-9fd9-cf3ad4000187)
+
+![image](https://github.com/user-attachments/assets/11dafdd1-6c1f-437b-9e6e-8e4831401efb)
+
+![image](https://github.com/user-attachments/assets/9e5be1ce-1241-49e3-8c74-ec7f9d0c831d)
+
+---
+
+# 10.事务的特性
+
+![image](https://github.com/user-attachments/assets/4f15de3f-4580-42b6-8cb0-fc786d4c638a)
+
+![image](https://github.com/user-attachments/assets/7e859bfd-b59e-4ea9-9458-7038ecc83f39)
+
+![image](https://github.com/user-attachments/assets/c29c0d8f-3630-4dda-8391-d62e3e8338fa)
+
+---
+
+# 11.并发事务问题、隔离级别
+
+![image](https://github.com/user-attachments/assets/8a184718-dbe9-4c1e-b96a-8913d9e3e43b)
+
+![image](https://github.com/user-attachments/assets/682fe310-f4a4-4c5b-a435-bc478972e1b2)
+
+![image](https://github.com/user-attachments/assets/6bfe18b5-069f-492a-a127-4b7fe00d1dd2)
+
+![image](https://github.com/user-attachments/assets/1e2c6b22-7d29-432a-938d-47b7ade63332)
+
+![image](https://github.com/user-attachments/assets/f462f617-c2c6-4809-ab4f-cff8f6532ed3)
