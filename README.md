@@ -134,3 +134,15 @@
 ![image](https://github.com/user-attachments/assets/1e2c6b22-7d29-432a-938d-47b7ade63332)
 
 ![image](https://github.com/user-attachments/assets/f462f617-c2c6-4809-ab4f-cff8f6532ed3)
+
+---
+
+# 12.undo log 和redo log的区别
+
+![image](https://github.com/user-attachments/assets/12476f00-98d9-4c08-aa53-a97537a2944a)
+
+![image](https://github.com/user-attachments/assets/e79467e4-525f-4c31-a0fe-aed55c55dc62)
+
+![image](https://github.com/user-attachments/assets/712a8468-0c8e-4c49-9c68-3a88289fbd3b)
+
+![image](https://github.com/user-attachments/assets/de54a176-8c6a-41f4-80ec-88b92ad56a99)
