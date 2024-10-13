@@ -1,4 +1,3 @@
-# MySQL_Study_Notes
 记录一些浅显的小知识。
 
 ---
@@ -146,3 +145,57 @@
 ![image](https://github.com/user-attachments/assets/712a8468-0c8e-4c49-9c68-3a88289fbd3b)
 
 ![image](https://github.com/user-attachments/assets/de54a176-8c6a-41f4-80ec-88b92ad56a99)
+
+---
+
+# 13.解释一下mvcc
+
+![image](https://github.com/user-attachments/assets/5b679d7b-cfbe-4938-a55d-db9305c23662)
+
+![image](https://github.com/user-attachments/assets/ec71281a-7df4-49f2-b028-f13490346347)
+
+![image](https://github.com/user-attachments/assets/fd2fde51-3d23-4946-928b-331cb4003acc)
+
+![image](https://github.com/user-attachments/assets/46716fd5-f45d-4035-bb2d-60b9e99b6b24)
+
+![image](https://github.com/user-attachments/assets/d99a44a3-1cde-4305-913c-26e071fe9bcb)
+
+![image](https://github.com/user-attachments/assets/386843ba-8b53-4d9e-beac-9c2d1f4743c9)
+
+![image](https://github.com/user-attachments/assets/85e87ab0-1f23-4753-b5bf-7a9f0f958f57)
+
+![image](https://github.com/user-attachments/assets/f46b01b2-922f-4a3d-859e-a56d11d48b7a)
+
+![image](https://github.com/user-attachments/assets/e7b1e400-36cd-4859-b333-aa6fa6d1ba76)
+
+![image](https://github.com/user-attachments/assets/d30ef714-a827-4897-aa2e-220f2584ab07)
+
+![image](https://github.com/user-attachments/assets/77e76684-42bc-4440-baf6-e67a49b1d171)
+
+---
+
+# 14.主从同步原理
+
+![image](https://github.com/user-attachments/assets/c7848fbc-b7af-44f4-9fc7-ae5e01f0a0ea)
+
+![image](https://github.com/user-attachments/assets/ad53f232-710b-4650-aea8-d8ce68faa5fe)
+
+---
+
+# 15.分库分表
+
+![image](https://github.com/user-attachments/assets/982613e8-169c-4aff-92e4-40043ad01cd2)
+
+![image](https://github.com/user-attachments/assets/b7f4c302-15f9-4e9d-ad9a-8ac640e082f8)
+
+![image](https://github.com/user-attachments/assets/6f6494f7-705a-444d-a8a2-6b65b3602fea)
+
+![image](https://github.com/user-attachments/assets/ea6edb51-cb58-49c1-a250-5322996cd100)
+
+![image](https://github.com/user-attachments/assets/fb09e256-761b-4555-bfd7-cc845c952e91)
+
+![image](https://github.com/user-attachments/assets/6eef1cee-ffa9-4485-995c-3de55a750720)
+
+![image](https://github.com/user-attachments/assets/e4fcff1d-1d58-4bf6-9d75-4603144c8466)
+
+![image](https://github.com/user-attachments/assets/9df04e9b-460a-4ccf-a56e-380dd08524f6)
