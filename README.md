@@ -2,18 +2,18 @@
 
 ---
 
-## 1.sql语句中的注释是“--”，记得在后面加一个空格才是你的注释内容。
+### 1.sql语句中的注释是“--”，记得在后面加一个空格才是你的注释内容。
 
 ---
 
-# 2.mysql如何定位慢查询
+### 2.mysql如何定位慢查询
 ![image](https://github.com/user-attachments/assets/85418c76-f804-4bed-a99d-5f16ca2975b5)
 
 ![image](https://github.com/user-attachments/assets/b53918b7-9806-43b1-9426-97159f14ec49)
 
 ---
 
-# 3.sql语句执行的很慢，如何分析
+### 3.sql语句执行的很慢，如何分析
 ![image](https://github.com/user-attachments/assets/c422a946-42b5-4c66-887d-e87892c614e9)
 
 ![image](https://github.com/user-attachments/assets/7cbbd110-dd4b-4464-a05a-f65bdb9e3a36)
@@ -26,7 +26,7 @@
 
 ---
 
-# 4.索引概念及索引底层数据结构
+### 4.索引概念及索引底层数据结构
 ![image](https://github.com/user-attachments/assets/843c654a-0426-4ecf-865c-731148e94124)
 
 ![image](https://github.com/user-attachments/assets/6e26ff0e-7160-4f8b-aa4d-4663f2925c97)
@@ -43,7 +43,7 @@
 
 ---
 
-# 5.聚簇索引和非聚簇索引、回表查询
+### 5.聚簇索引和非聚簇索引、回表查询
 ![image](https://github.com/user-attachments/assets/1ac163c8-9a2c-47dd-b759-1e171f8f8566)
 
 ![image](https://github.com/user-attachments/assets/767ecb1b-7c7b-4119-aa94-427d7355ac79)
@@ -56,7 +56,7 @@
 
 ---
 
-# 6.覆盖索引、超大分页优化
+### 6.覆盖索引、超大分页优化
 ![image](https://github.com/user-attachments/assets/a03e28a8-093a-465e-a18f-5b7aa3220b41)
 
 ![image](https://github.com/user-attachments/assets/f0d92a16-ef78-497e-9fbb-e6a87c26745a)
@@ -71,7 +71,7 @@
 
 ---
 
-# 7.索引创建的原则
+### 7.索引创建的原则
 ![image](https://github.com/user-attachments/assets/e23a37ca-035d-4548-b68c-733c430a4d4d)
 
 ![image](https://github.com/user-attachments/assets/caf1e840-47db-4217-a3fb-ee990793eafa)
@@ -80,7 +80,7 @@
 
 ---
 
-# 8.什么情况下索引会失效
+### 8.什么情况下索引会失效
 ![image](https://github.com/user-attachments/assets/e058f9af-d73f-4939-9d9c-7745ce7bc447)
 
 ![image](https://github.com/user-attachments/assets/7199b773-68f8-4236-b9b3-a4dc2b440ca7)
@@ -99,7 +99,7 @@
 
 ---
 
-# 9.谈一谈你对sql优化的经验
+### 9.谈一谈你对sql优化的经验
 ![image](https://github.com/user-attachments/assets/4914fed0-7367-4d4c-be12-b278eefdbea4)
 
 ![image](https://github.com/user-attachments/assets/164d1d25-d07c-4964-93df-6cff9617cb4d)
@@ -112,7 +112,7 @@
 
 ---
 
-# 10.事务的特性
+### 10.事务的特性
 
 ![image](https://github.com/user-attachments/assets/4f15de3f-4580-42b6-8cb0-fc786d4c638a)
 
@@ -122,7 +122,7 @@
 
 ---
 
-# 11.并发事务问题、隔离级别
+### 11.并发事务问题、隔离级别
 
 ![image](https://github.com/user-attachments/assets/8a184718-dbe9-4c1e-b96a-8913d9e3e43b)
 
@@ -136,7 +136,7 @@
 
 ---
 
-# 12.undo log 和redo log的区别
+### 12.undo log 和redo log的区别
 
 ![image](https://github.com/user-attachments/assets/12476f00-98d9-4c08-aa53-a97537a2944a)
 
@@ -148,7 +148,7 @@
 
 ---
 
-# 13.解释一下mvcc
+### 13.解释一下mvcc
 
 ![image](https://github.com/user-attachments/assets/5b679d7b-cfbe-4938-a55d-db9305c23662)
 
@@ -174,7 +174,7 @@
 
 ---
 
-# 14.主从同步原理
+### 14.主从同步原理
 
 ![image](https://github.com/user-attachments/assets/c7848fbc-b7af-44f4-9fc7-ae5e01f0a0ea)
 
@@ -182,7 +182,7 @@
 
 ---
 
-# 15.分库分表
+### 15.分库分表
 
 ![image](https://github.com/user-attachments/assets/982613e8-169c-4aff-92e4-40043ad01cd2)
 
@@ -199,3 +199,91 @@
 ![image](https://github.com/user-attachments/assets/e4fcff1d-1d58-4bf6-9d75-4603144c8466)
 
 ![image](https://github.com/user-attachments/assets/9df04e9b-460a-4ccf-a56e-380dd08524f6)
+
+---
+
+### 16.在 MySQL 中，**`DISTINCT`** 是一个关键字，用于从查询结果中**去除重复的记录**。它通常用于 **`SELECT`** 语句中，帮助我们返回唯一的值，避免重复的行显示在结果集里。
+
+**语法**：  
+```sql
+SELECT DISTINCT column1, column2, ... 
+FROM table_name;
+```
+
+**使用方法**：  
+1. **去除单列的重复值**：  
+   当你只关心某一列的唯一值时，可以使用 **`DISTINCT`** 去重。例如，假设你有一个员工表，想查询所有不同的职位：  
+
+   ```sql
+   SELECT DISTINCT job_title
+   FROM employees;
+   ```
+   这个查询会返回表中所有**不重复的职位**。
+
+2. **去除多列的重复值**：  
+   如果查询结果包含多个列，**`DISTINCT`** 会确保所有列组合的唯一性。只有当所有列的组合完全相同，才会被视为重复并去除。例如：
+
+   ```sql
+   SELECT DISTINCT first_name, last_name
+   FROM employees;
+   ```
+
+   这个查询会返回不同的名字和姓氏的组合，如果两个员工有相同的名字和姓氏，这一组合只会显示一次。
+
+**注意事项**：  
+- **`DISTINCT`** 是应用在整个行级别的，而不仅仅是单个列。当你选择多个列时，所有列的值组合被认为是唯一的。  
+  
+- **`DISTINCT`** 会增加查询的计算开销，尤其是在数据量较大的时候，因此在性能要求较高的情况下，尽量避免不必要的 **`DISTINCT`** 使用。  
+  
+**示例**：  
+1. 查询不同的城市：  
+假设有一个订单表，包含以下数据：  
+| id | customer_name | city     |  
+|----|---------------|----------|  
+| 1  | John          | New York |  
+| 2  | Jane          | Boston   |  
+| 3  | Mike          | New York |  
+| 4  | Sarah         | Chicago  |
+
+使用 **`DISTINCT`** 查询唯一的城市：  
+
+```sql
+SELECT DISTINCT city
+FROM orders;
+```
+
+结果：  
+| city     |  
+|----------|  
+| New York |  
+| Boston   |  
+| Chicago  |
+
+2. 查询不同的名字和城市组合： 
+假设表数据如下：  
+| id | customer_name | city     |  
+|----|---------------|----------|  
+| 1  | John          | New York |  
+| 2  | Jane          | Boston   |  
+| 3  | Mike          | New York |  
+| 4  | John          | Chicago  |
+
+查询不同的名字和城市组合：  
+
+```sql
+SELECT DISTINCT customer_name, city
+FROM orders;
+```
+
+结果：  
+| customer_name | city     |  
+|---------------|----------|  
+| John          | New York |  
+| Jane          | Boston   |  
+| Mike          | New York |  
+| John          | Chicago  |
+
+**总结**：  
+- **`DISTINCT`** 用于消除查询结果中的重复数据。  
+- 它适用于**单列**和**多列**查询，但性能开销可能较大，尤其在数据量大的时候。  
+- **`DISTINCT`** 会根据整个行的数据来判断是否重复，并不是单纯根据某一列来去重。
