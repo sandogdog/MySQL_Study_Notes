@@ -238,12 +238,12 @@ FROM table_name;
 **示例**：  
 1. 查询不同的城市：  
 假设有一个订单表，包含以下数据：  
-| id | customer_name | city     |  
-|----|---------------|----------|  
-| 1  | John          | New York |  
-| 2  | Jane          | Boston   |  
-| 3  | Mike          | New York |  
-| 4  | Sarah         | Chicago  |
+| id  | customer_name | city     | 
+|-----|---------------|----------| 
+| 1   | John          | New York | 
+| 2   | Jane          | Boston   | 
+| 3   | Mike          | New York | 
+| 4   | Sarah         | Chicago  |
 
 使用 **`DISTINCT`** 查询唯一的城市：  
 
